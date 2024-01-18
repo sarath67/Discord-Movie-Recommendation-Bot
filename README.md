@@ -21,5 +21,5 @@ This Discord bot utilizes sentiment analysis to recommend movies based on the us
   OMDB_TOKEN: Replace with your OMDb API token.
 4. run the bot
 
-##Usage
+## Usage
 -Trigger the bot by sending a message starting with "shini movie" on your Discord server. The bot will analyze your recent messages, determine your mood, and send personalized movie recommendations.
