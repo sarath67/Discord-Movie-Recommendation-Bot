@@ -6,8 +6,8 @@ from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
 nltk.download('vader_lexicon')
 
-API_TOKEN = 'ODYxNDcwNjI0NjM4Njk3NDcz.YOKRCg.N3QDsK8qAjUe0-AJvqfnBiNDpiw'
-OMDB_TOKEN = '27adac0d'
+API_TOKEN = 'bot_token'
+OMDB_TOKEN = 'omdb_token'
 
 surprise = [
     "Kandukondain Kandukondain", "Kaakha Kaakha", "Ghilli", "Mozhi", "Sivaji",
